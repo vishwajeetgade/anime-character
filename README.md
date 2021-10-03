@@ -1,11 +1,11 @@
-## React Anime Character App
-# Using React-bootstrap
-# React Context
+# React Anime Character App
+## Using React-bootstrap
+## React Context
 
 In this app you can add new Anime character and there details also edit the details and delete that character.
 All data is store in localStorage.
 
-# Clone the Application - git clone https://github.com/vishwajeetgade/anime-character.git
+## Clone the Application - git clone https://github.com/vishwajeetgade/anime-character.git
 
 
 # Getting Started with Create React App
