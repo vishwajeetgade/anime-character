@@ -1,3 +1,13 @@
+## React Anime Character App
+# Using React-bootstrap
+# React Context
+
+In this app you can add new Anime character and there details also edit the details and delete that character.
+All data is store in localStorage.
+
+# Clone the Application - git clone https://github.com/vishwajeetgade/anime-character.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
